@@ -1,0 +1,46 @@
+/* home.component.css */
+section {
+    margin: 20px auto;
+    max-width: 1200px;
+  }
+  
+  form {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form input[type="search"] {
+    padding: 10px;
+    width: 80%;
+    max-width: 400px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  form button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .movies-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  app-movies {
+    flex: 1 1 23%;
+    max-width: 23%; 
+    box-sizing: border-box;
+  }
+  

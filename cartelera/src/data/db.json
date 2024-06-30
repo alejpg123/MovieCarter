@@ -1,0 +1,148 @@
+{
+  "movies" : [
+    {
+      "id": 0,
+      "nombre": "Intensamente 2",
+      "portada": "assets/intensamente-2.jpg",
+      "genero": "Animación",
+      "director": "Kelsey Mann",
+      "estreno": "13/06/2024",
+      "duracion": "1:40",
+      "clasificacion": "ATP",
+      "idiomas": ["español", "español subtitulada", "inglés subtitulada"],
+      "sinopsis": "Esta nueva entrega regresa a la mente de la recién adolescente Riley justo cuando el cuartel general está sufriendo una repentina demolición para hacer sitio a algo totalmente inesperado: ¡nuevas emociones! Alegría, Tristeza, Furia, Temor y Desagrado, que llevan mucho tiempo llevando a cabo una operación exitosa, no están seguros de cómo sentirse cuando aparece Ansiedad. Y parece que no está sola."
+    },
+    {
+      "id": 1,
+      "nombre": "Tornados",
+      "portada": "assets/tornados.jpg",
+      "genero": "Acción",
+      "director": "Lee Isaac Chung",
+      "estreno": "11/07/2024",
+      "duracion": "2:02",
+      "clasificacion": "SAM13",
+      "idiomas": ["español", "inglés subtitulada"],
+      "sinopsis": "Kate Cooper, una ex cazadora de tormentas perseguida por un devastador encuentro con un tornado durante sus años universitarios; ahora estudia los patrones de tormentas en las pantallas de forma segura en la ciudad de Nueva York. Su amigo Javi la atrae de regreso a las llanuras abiertas para probar un nuevo e innovador sistema de seguimiento. Allí, se cruza con Tyler Owens, la encantadora e imprudente superestrella de las redes sociales que disfruta publicando sus aventuras, persiguiendo tormentas con su estridente equipo, cuanto más peligroso, mejor. A medida que la temporada de tormentas se intensifica, se desatarán fenómenos aterradores nunca antes vistos, y Kate, Tyler y sus equipos competidores se encuentran de lleno en el camino de múltiples sistemas de tormentas que convergen sobre el centro de Oklahoma en la lucha de sus vidas."
+    },
+    {
+      "id": 2,
+      "nombre": "Un lugar en silencio: dia uno",
+      "portada": "assets/un-lugar-en-silencio.jpg",
+      "genero": "Terror",
+      "director": "Michael Sarnoski",
+      "estreno": "4/07/2024",
+      "duracion": "1:40",
+      "clasificacion": "SAM13",
+      "idiomas": ["español", "inglés subtitulada"],
+      "sinopsis": "El filme, dirigido por Michael Sarnoski, se centra en la llegada inicial de los temibles alienígenas que cazan mediante el sonido, ofreciendo una nueva perspectiva y elevando el nivel de tensión y horror característico de la serie. La atmósfera intensa y el guion cautivador han sido altamente elogiados, manteniendo la esencia que hizo famosa a la franquicia."
+    },
+    {
+      "id": 3,
+      "nombre": "Exorcismo",
+      "portada": "assets/exorcismo.jpg",
+      "genero": "Terror",
+      "director": "Joshua John Miller",
+      "estreno": "27/06/2024",
+      "duracion": "1:33",
+      "clasificacion": "SAM13",
+      "idiomas": ["español"],
+      "sinopsis": "Un actor con problemas empieza a desmoronarse durante el rodaje de una película de terror. Su distanciada hija se pregunta si está recayendo en sus adicciones del pasado o si hay algo más siniestro en juego."
+    },
+    {
+      "id": 4,
+      "nombre": "Cómplices del engaño",
+      "portada": "assets/complices-del-engaño.jpg",
+      "genero": "Comedia romántica",
+      "director": "Richard Linklater",
+      "estreno": "27/06/2024",
+      "duracion": "1:55",
+      "clasificacion": "SAM13",
+      "idiomas": ["inglés subtitulada"],
+      "sinopsis": "Gary Johnson es el agente encubierto más buscado de Nueva Orleans. Para sus clientes, es el sicario ideal, cero errores, siempre un profesional. Esto cambiará cuando rompa el protocolo para ayudar a una atractiva y desesperada mujer que intenta huir de su novio maltratador. Para esta misión Gary se convertirá en uno de sus falsos personajes y tendrá que decidir entre seguir con la misión o enamorarse sabiendo el peligro que los dos correrían."
+    },
+    {
+      "id": 5,
+      "nombre": "Mi villano favorito 4",
+      "portada": "assets/mi-villano-favorito-4.jpg",
+      "genero": "Acción",
+      "director": "Chris Renaud",
+      "estreno": "20/06/2024",
+      "duracion": "1:35",
+      "clasificacion": "ATP",
+      "idiomas": ["español", "inglés subtitulada"],
+      "sinopsis": "Cuarta entrega de Mi villano favorito. Gru, Lucy y sus hijas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro de la familia, Gru Jr, que se empeña en atormentar a su padre. Pero en esta nueva entrega, además del nuevo miembro de la familia, Gru se enfrentará a nuevos némesis, Maxime Le Mal y su novia Valentina, por lo cual la familia se verá obligada a huir."
+    },
+    {
+      "id": 6,
+      "nombre": "Bad boys hasta la muerte",
+      "portada": "assets/bad-boys.jpg",
+      "genero": "Acción",
+      "director": ["Adil El Arbi", "Bilall Fallah"],
+      "estreno": "6/06/2024",
+      "duracion": "1:55",
+      "clasificacion": "SAM16",
+      "idiomas": ["español", "inglés subtitulada"],
+      "sinopsis": "Muy pronto, los “Bad Boys” favoritos del mundo regresan con su icónica mezcla de acción al límite y comedia delirante, pero esta vez con un inesperado giro: los mejores de Miami están huyendo."
+    },
+    {
+      "id": 7,
+      "nombre": "Lo mejor está por venir",
+      "portada": "assets/lo-mejor-esta-por-venir.jpg",
+      "genero": "Acción",
+      "director": "Nanni Moretti",
+      "estreno": "16/05/2024",
+      "duracion": "1:36",
+      "clasificacion": "ATP",
+      "idiomas": ["italiano subtitulada"],
+      "sinopsis": "Giovanni (Nanni Moretti), un conocido cineasta italiano, se prepara para rodar su nueva película. Pero entre su pareja en crisis, su productor francés al borde de la quiebra y su hija que no le hace caso, ¡todo se ha puesto en su contra! Siempre en el límite, Giovanni va a tener que replantearse su manera de hacer las cosas si quiere conducir a todo su pequeño mundo hacia un futuro brillante."
+    },
+    {
+      "id": 8,
+      "nombre": "La conversión",
+      "portada": "assets/conversion.jpg",
+      "genero": "Drama",
+      "director": "Marco Bellocchio",
+      "estreno": "20/05/2024",
+      "duracion": "2:14",
+      "clasificacion": "SAM13",
+      "idiomas": ["italiano subtitulada"],
+      "sinopsis": "En 1858, en el barrio judío de Bolonia, los soldados del Papa, siguiendo sus órdenes, irrumpen en la casa de la familia Mortara para secuestrar a Edgardo, el hijo de siete años, con la finalidad de que reciba una educación católica. Los padres del niño hacen todo lo posible por recuperar a su hijo. Apoyados por la opinión pública italiana y la comunidad judía internacional, la lucha de los Mortara adquirirá pronto una gran dimensión política, aunque el Papa y la Iglesia se niegan a devolver a Edgardo."
+    },
+    {
+      "id": 9,
+      "nombre": "Desafiantes",
+      "portada": "assets/desafiantes.jpg",
+      "genero": "Comedia dramática",
+      "director": "Luca Guadagnino",
+      "estreno": "15/07/2023",
+      "duracion": "2:11",
+      "clasificacion": "SAM13",
+      "idiomas": ["español", "inglés subtitulada"],
+      "sinopsis": "Tashi, antigua promesa del tenis convertida en entrenadora, inscribe a su marido Art, campeón del Grand Slam, a un evento Challengers para mejorar su confianza después de una serie de derrotas. En el evento, se enfrentan a Patrick, antiguo mejor amigo de Art y exnovio de Tashi."
+    },
+    {
+      "id": 10,
+      "nombre": "Ghost: Rite Here Rite Now",
+      "portada": "assets/ghost.jpg",
+      "genero": "Musical",
+      "director": ["Tobias Forge", "Alex Ross Perry"],
+      "estreno": "20/06/2024",
+      "duracion": "2:25",
+      "clasificacion": "ATP",
+      "idiomas": ["inglés subtitulada"],
+      "sinopsis": "La película documenta dos shows de Ghost realizados durante su gira de conciertos Imperatour, que se llevaron a cabo en el Kia Forum en Inglewood, California, los días 11 y 12 de septiembre de 2023. A diferencia de otros espectáculos de la gira, se implementó una política estricta de no portar teléfono a los asistentes a los espectáculos del Kia Forum para evitar fotografías y/o grabaciones con flash. Además de las imágenes del concierto, Rite Here Rite Now contiene una historia narrativa basada en la historia ficticia que rodea a la banda. La lista de créditos indica que los actores que interpretan a Papa Nihil y Sister Imperator, dos personajes asociados con la historia de la banda, aparecen en la película."
+    },
+    {
+      "id": 11,
+      "nombre": "Hitman",
+      "portada": "assets/hitman.jpg",
+      "genero": "Acción",
+      "director": "Richard Linklater",
+      "estreno": "5/07/2023",
+      "duracion": "1:53",
+      "clasificacion": "SAM13",
+      "idiomas": ["latino", "inglés subtitulada"],
+      "sinopsis": "Gary Johnson es un tímido profesor universitario de filosofía que vive en Nueva Orleans. Se ha divorciado recientemente y lleva una vida tranquila con sus clases y un trabajo a tiempo parcial como consultor informático para el departamento de policía de la ciudad. Un día la policía le pide que se haga pasar por un sicario como parte de una operación destinada a detener a quienes intentan contratar a tales figuras. Sorprendentemente, Gary logra hacerse con el papel de modo exitoso y saca a relucir una habilidad natural para componer distintos tipos de sicarios según cada cliente específico, con la ayuda de disfraces, barbas y tatuajes. Sin embargo, se salta las reglas para ayudar a Maddy, una mujer desesperada que quiere matar a su marido maltratador, porque se enamora, comienza una relación con ella e intenta disuadirla de la decisión. Cuando de repente se encuentra en medio de un crimen real, todas las pruebas conducen hasta él."
+    }
+  ]
+}
