@@ -87,7 +87,11 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "repo": "https://github.com/alejpg123/MovieCarter.git",
+            "baseHref": "https://alejpg123.github.io/MovieCarter/"
+          }
         }
       }
     }
